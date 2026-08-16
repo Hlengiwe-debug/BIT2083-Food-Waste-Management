@@ -1,0 +1,21 @@
+{
+    "food_items": [
+        {
+            "id": "F001",
+            "name": "corn",
+            "amount": 50,
+            "expiry_date": "2028-09-10",
+            "priority": 2
+        }
+    ],
+    "distribution_history": [
+        {
+            "food_id": "F001",
+            "food_name": "corn",
+            "amount": 50,
+            "destination": "Orphanage",
+            "date": "2026-08-16"
+        }
+    ],
+    "disposal_records": []
+}
